@@ -1,0 +1,22 @@
+.frame {
+    display: flex;
+    flex-direction: column;
+    height: 443px;
+    align-items: center;
+    gap: 64px;
+    padding: 64px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #0000001a;
+  }
+
+.cloudy {
+    position: relative;
+    width: 64px;
+    height: 64px;
+    margin-bottom: -3199px;
+    margin-right: -290px;
+    object-fit: cover;
+  }
